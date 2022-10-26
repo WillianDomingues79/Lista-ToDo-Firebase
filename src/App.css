@@ -5,10 +5,10 @@
   justify-content: center;
 }
 body {
-  background-color: #cbcbf3;
+  background-color: black;
 }
 .title h1 {
-  color: #3a3a3a;
+  color: gold;
   text-align: center;
   margin: 30px 0;
   font-family: "Poppins", sans-serif;
